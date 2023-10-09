@@ -1,7 +1,7 @@
 # MySQL-Project
 MySQL syntax and query writing, Working on schemas, PK and FK, Creating Relational Database Schema. 
 
-EER diagrams provide a visual representation of the relationships among the tables in your model. 
+EER diagrams provide a visual representation of the relationships among the tables in the model. 
 
 ![image](https://github.com/BusraArlier/MySQL-Project/assets/147072169/8a50c807-0882-4487-8c3c-b00caf7f3748)
 
